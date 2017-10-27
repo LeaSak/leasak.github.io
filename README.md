@@ -1,5 +1,5 @@
 ## About
-------
+
 This is my personal website. It displays the projects that I work on as a web developer and my contact information. This website was one of the first projects in my Front-End Web Development Nanodegree at Udacity.
 
 ### Features
@@ -29,7 +29,7 @@ If you wish to build the project, see below.
 To build the app, you first need to set-up your development environment.
 
 #### Step 1: Install node.js, npm, Gulp, and Bower
-Make sure you have **node.js**, **npm**, **gulp**, and **bower** installed. For instructions on how to install these consult the following links: [node](https://nodejs.org/en/), [npm](https://docs.npmjs.com/getting-started/installing-node), [gulp.js](http://gulpjs.com/), [bower.js](https://bower.io/)
+Make sure you have **node.js**, **npm**, **gulp**, and **bower** installed. For instructions on how to install these, consult the following links: [node](https://nodejs.org/en/), [npm](https://docs.npmjs.com/getting-started/installing-node), [gulp.js](http://gulpjs.com/), [bower.js](https://bower.io/)
 *Note*: You do not need to create `package.json` and `gulpfile.js` files.
 
 #### Step 2: Install Gulp Dependencies
@@ -58,7 +58,7 @@ If you want to make changes to the project, run the default gulp task:
 $ gulp
 ```
 The default gulp task includes watch tasks, so when you make any changes to the files in the **src** directory, the site will be rebuilt again and your changes will be implemented. You'll need to refresh the browser to see your changes.
-For more information, please inspect **gulpfile.js**
+For more information, please inspect the **gulpfile.js**
 
 *Note*: The gulp plugin **gulp-responsive** uses the library **Sharp**. You need to have **Sharp** installed for this plugin to work. See [this link](http://sharp.dimens.io/en/stable/install/) for instructions. Also, this project was built using **Sass**. To edit the stylesheets, edit the files found in the **src/scss/** directory. Do not edit the css output files found in the **css/** directory. For more information on **Sass**, visit [Sass](http://sass-lang.com/).
 
